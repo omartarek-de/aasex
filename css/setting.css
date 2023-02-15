@@ -1,0 +1,44 @@
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.sex{
+    text-align: center;
+}
+.icons{
+    text-align: center;
+    font-size: xx-large;
+    background-color: #4D4FA1;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.button1{
+    position: relative;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+    border: 2.5px solid #000;
+    background: transparent;
+    color: white;
+    cursor: pointer;
+    overflow: hidden;
+}
+.button2 i{
+    font-size: xxx-large;
+    color: #000;
+}
+i{
+    transition: 0.2s;
+}
+.button1:hover i{
+    font-size: xxx-large;
+    color: #000;
+}
+.button2:hover i{
+    font-size: xxx-large;
+    color: #000;
+}

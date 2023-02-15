@@ -1,0 +1,20 @@
+body{
+    background-color: #5a5cb1;
+}
+.img{
+    text-align: center;
+}
+    
+body .text {    
+    text-align: center;
+    font-size: xxx-large;
+    color: #ced1d3;
+}
+.button{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    font-size: 100px;
+    background-color: #5a5cb1;
+    border: none;
+}

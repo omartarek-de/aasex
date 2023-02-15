@@ -1,0 +1,28 @@
+body{
+    background-color: #F1F1F5;
+    text-align: center;
+    font-size: larger;
+}
+.top{
+    background-color: #9097CB;
+    font-size: x-large;
+}
+.button2{
+    position: relative;
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    font-weight: bold;
+    border: 2.5px solid #000;
+    background: transparent;
+    color: white;
+    cursor: pointer;
+    overflow: hidden;
+}
+.email:hover{
+    background-color: #F1F1F5;
+}
+.pass:hover{
+    background-color: #F1F1F5;
+}
